@@ -1,0 +1,1 @@
+To Sucessfully run this app, We need to setup a DB server first on local system or Cloud and update connection string with DB password at the place of SQLConnection at line 18 in "ProductService.cs" under Service folder. It's recommended way to establish connection with DB because we only need connection string with DB password.
